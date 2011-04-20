@@ -17,6 +17,7 @@ module SpreeCore
           Gateway::AuthorizeNet,
           Gateway::AuthorizeNetCim,
           Gateway::Eway,
+          Gateway::Elavon,
           Gateway::Linkpoint,
           Gateway::PayPal,
           Gateway::SagePay,
